@@ -1,4 +1,5 @@
 <?php
     echo "hello everyone!!!";
-    echo "<a herf='./phpinfo.php'>phpinfo</a>"
+    echo "<a href='./phpinfo.php'>phpinfo</a>"
+    echo phpinfo();
 ?>
